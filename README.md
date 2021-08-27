@@ -15,11 +15,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanulimon&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ehsanulimon)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ehsanulimon)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanulimon)  
 
 ![Profile views](https://gpvc.arturio.dev/ehsanulimon)  
-
