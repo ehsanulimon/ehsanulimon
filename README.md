@@ -2,7 +2,7 @@
 #### I am GitHub User
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  Java / C++ / Python / HTML / CSS
 
 - 🌱 I’m currently learning PHYTON 
 
