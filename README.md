@@ -1,5 +1,5 @@
 ### Hi there 👋, I am imon
-#### I am GitHub User
+#### I am student 
 
 
 Skills:  Java / C++/ HTML / CSS
