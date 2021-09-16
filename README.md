@@ -2,9 +2,9 @@
 🌱 I’m currently learning PHYTON & C#
 
 <p align="left">
-  <h4> 💬 Ask me about: </h4>
-<a href="https://fb.com/https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon/" height="30" width="40" /></a>
-</p>
+  <h4> 💬 Ask me about:<a href="https://fb.com/https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon/" height="30" width="40" /></a>
+</p> </h4>
+
 
 <ul> <li> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> <a href="https://monumental94percent-amonweb.netlify.app/" >PHD to HTML Work 1</a></li> 
   <li> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> <a href="https://systematic-amonweb.netlify.app/" >PHD to HTML Work 2</a></li> 
