@@ -1,6 +1,6 @@
 ### Hi there 👋, I am imon
-- 🌱 I’m currently learning PHYTON & C#
-- 💬 <h4> Ask me about: </h4>
+🌱 I’m currently learning PHYTON & C#
+<h4> 💬 Ask me about: </h4>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehsanulimon) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EhsanulImon)  
 <h3 align="center">A passionate new developer from Bangladesh.</h3>
