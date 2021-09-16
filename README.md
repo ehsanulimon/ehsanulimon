@@ -5,7 +5,7 @@
 <a href="https://fb.com/https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon/" height="30" width="40" /></a>
 </p>
 
-<h3><img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/134649383/original/45c5270961e95930dde964df19971dc6ab7771b4/help-you-configure-your-website-on-netlify.png" width="150" height="160"> </a> </h3>
+<h3><img src="https://www.pngitem.com/pimgs/m/172-1727991_netlify-logo-hd-png-download.png" width="250" height="160"> </a> </h3>
 <h3 align="center">A passionate new developer from Bangladesh.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
