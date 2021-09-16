@@ -1,8 +1,9 @@
 ### Hi there 👋, I am imon
 🌱 I’m currently learning PHYTON & C#
 <h4> 💬 Ask me about: </h4>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehsanulimon) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EhsanulImon)  
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon/" height="30" width="40" /></a>
+</p>
 <h3 align="center">A passionate new developer from Bangladesh.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
