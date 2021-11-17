@@ -1,5 +1,4 @@
 ### Hi there 👋, I am imon
-🌱 I’m currently learning PHYTON & C#
 
 <p align="left">
   <h4> 💬 Ask me about:<a href="https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon" height="30" width="40" /></a>
