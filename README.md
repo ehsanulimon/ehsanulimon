@@ -8,12 +8,14 @@
    
 </p> </h4>
 
-
-<ul>  <a href="https://monumental94percent-amonweb.netlify.app/"  target="blank" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"><small> PHD to HTML 1</small> </a>
+ <a  >
+ <a >
+   <ul> <span> PSD to HTML</span> <a href="https://monumental94percent-amonweb.netlify.app/"  target="blank" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40" height="40"><small>  sample1</small> </a>
+  <a href="https://systematic-amonweb.netlify.app/"  target="blank" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40" height="40"><small>  sample2</small> </a>
+  <a href="https://amonweb-cudasinglepageportfolio90percent.netlify.app/"  target="blank" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40" height="40"><small> sample3</small> </a>
   
   
-  <li> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> <a href="https://systematic-amonweb.netlify.app/" >PHD to HTML Work 2</a></li> 
-   <li> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> <a href="https://amonweb-cudasinglepageportfolio90percent.netlify.app/" >PHD to HTML Work 3</a></li> 
+  
 </ul>
 <h3 align="center">A passionate new developer from Bangladesh.</h3>
 
