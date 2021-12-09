@@ -9,7 +9,7 @@
 </p> </h4>
 
 
-<ul>  <a href="https://monumental94percent-amonweb.netlify.app/"  target="blank" text="PHD to HTML Work 1" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> </a>
+<ul>  <a href="https://monumental94percent-amonweb.netlify.app/"  target="blank" > <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"><small> PHD to HTML 1</small> </a>
   
   
   <li> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="30" height="30"> <a href="https://systematic-amonweb.netlify.app/" >PHD to HTML Work 2</a></li> 
