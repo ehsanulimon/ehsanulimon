@@ -1,10 +1,8 @@
 ### Hi there 👋, I am imon
 <h3 align="center">A passionate new developer from Bangladesh.</h3>
 <p align="left">
-  <h4> 💬 Ask me about:</h4>
- <a href="https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon" height="30" width="40" /></a>
-    
-<a href="https://www.linkedin.com/in/mostafa-imon-7713051b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa imon" height="30" width="40" /></a>
+  <h4> 💬 Ask me about: <a href="https://www.facebook.com/ehsanul.imon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsanul.imon" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mostafa-imon-7713051b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa imon" height="30" width="40" /></a></h4>
+
     
    
 </p> 
