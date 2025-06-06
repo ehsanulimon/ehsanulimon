@@ -1,3 +1,5 @@
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanulimon) 
+
 # 📊 Bangla Drama and TV Series Sentiment Analysis
 
 This repository contains the source code, dataset link, and models used in our research paper:
@@ -65,10 +67,7 @@ Available on GitHub:
   year={2024},
   publisher={ACM},
   doi={10.1145/3723178.3723186}
-}
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanulimon) 
 
 
 
