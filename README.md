@@ -16,7 +16,7 @@ This study presents the first large-scale Bangla sentiment analysis dataset cont
 We applied multiple Machine Learning and Deep Learning models (SVM, CNN-GRU) and proposed a **Stacking Ensemble Model**, which achieved:
 
 ✅ **Accuracy**: 82.95%  
-✅ **Best Model**: CNN + GRU + Meta-learner  
+✅ **Best Model**: CNN-GRU + Meta-learner  
 ✅ **Explainability**: LIME & SHAP used for model interpretation
 
 ## 🗃 Dataset
@@ -27,12 +27,11 @@ Available on GitHub:
 - Total Samples: 20,000
 - Labels: Positive / Negative
 - Source: YouTube Comments
-- Annotation: 6 Native Bangla Speakers
 
 ## 🛠 Models
 
-- Classical ML: Naïve Bayes, SVM, Logistic Regression
-- Deep Learning: CNN, GRU, LSTM, Bi-GRU, CNN-GRU
+- Classical ML: Naïve Bayes, SVM, Logistic Regression, RF ,KNN
+- Deep Learning: CNN, RNN, GRU, LSTM, Bi-LSTM, Bi-GRU, CNN-GRU, CNN-LSTM, CNN-BiGRU, CNN-BiLSTM.
 - Ensemble: Stacking (10 DL Models + Meta-Learner)
 
 ## 📈 Results
@@ -48,14 +47,6 @@ Available on GitHub:
 - 🔍 Local: **LIME** highlights key words per prediction
 - 🔍 Global: **SHAP** for feature impact visualization
 
-## 🧑‍💻 Authors
-
-- Md. Shymon Islam
-- Ehsanul Imon
-- M. Raihan
-- Md Musab Noor
-- Tasmin Jabin Rasa
-- Isfat Ara Hasan Ema
 
 ## 📌 Citation (BibTeX)
 
