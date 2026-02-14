@@ -46,19 +46,3 @@ Available on GitHub:
 
 - 🔍 Local: **LIME** highlights key words per prediction
 - 🔍 Global: **SHAP** for feature impact visualization
-
-
-## 📌 Citation (BibTeX)
-
-```bibtex
-@inproceedings{islam2024bangla,
-  title={Analyzing Bangla Drama and TV Series Reviews Using Stacking Method},
-  author={Islam, Md Shymon and Imon, Ehsanul and Raihan, M and Noor, Md Musab and Rasa, Tasmin Jabin and Ema, Isfat Ara Hasan},
-  booktitle={Proceedings of the 3rd International Conference on Computing Advancements},
-  year={2024},
-  publisher={ACM},
-  doi={10.1145/3723178.3723186}
-
-
-
-
